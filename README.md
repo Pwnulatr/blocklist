@@ -27,7 +27,7 @@ In additon to the licensing explicitly waiving warranty implied warranty, I woul
 ## In alphabetical order:
 [ForTheBadge](https://forthebadge.com) - Badges for ReadMe
 
-[Jekyll-Dash](https://github.com/bitbrain/jekyll-dash) (Licensed [Apache 2.0](https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE)) - Theme used for the GitHub Pages... page.
+[Jekyll Theme Console](https://github.com/b2a3e8/jekyll-theme-console) (Licensed [Apache 2.0](https://github.com/b2a3e8/jekyll-theme-console/blob/master/LICENSE.txt)) - Theme used for the GitHub Pages... page.
 
 [Markton's Fakenews](https://github.com/marktron/fakenews) (Licensed [MIT](https://github.com/marktron/fakenews/blob/master/LICENSE)) - Initial Fake News list used as a building block.
 

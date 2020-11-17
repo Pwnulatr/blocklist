@@ -1,2 +1,7 @@
-remote_theme: "bitbrain/jekyll-dash"
+remote_theme: "b2a3e8/jekyll-theme-console"
 title: PMPB
+
+header_pages:
+  - README.md
+
+  style: dark
