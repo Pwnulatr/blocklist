@@ -17,7 +17,7 @@ Append the hosts file to your own hosts file on your operating system, or, add i
 ## Option 3
 If you use a [Pi-hole](https://pi-hole.net/), you can add the domains file to your blocklist. This will also work when added to uBlock Origin or other compatible browser-based blockers.
 ## Option 4
-Use [BlockTube]() to also block YouTube channels from appearing that also spread misinformation. Just import the JSON file in the `BlockTube` directory.
+Use [BlockTube](https://github.com/amitbl/blocktube) to also block YouTube channels from appearing that also spread misinformation. Just import the JSON file in the `BlockTube` directory.
 ### More options to come at a later date
 # DISCLAIMER
 ```
