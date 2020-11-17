@@ -1,6 +1,7 @@
 <div align="center">
 
 # Pwnulatr's Misinformation and Propaganda Blocklists
+
 ## Help Yourself Be Free From Misinformation
 
 [![License](https://img.shields.io/github/license/Pwnulatr/blocklist?style=for-the-badge)](https://github.com/Pwnulatr/blocklist/blob/main/LICENSE)
@@ -12,7 +13,7 @@
 ## Option 1
 Add the Filter list to any ABPlus Filter compatable browser addon using the button below.
 
-[![Install ABP](https://img.shields.io/badge/Install-For%20ABP%20Filter-red?style=for-the-badge)](abp:subscribe?location=https//pwnulatr.github.io/blocklist/domain-formats/ABP-Filter&title=Pwnulatr%27s%20Misinformation%20and%20Propaganda%20Blocklist)
+[![Install ABP](https://img.shields.io/badge/Install-For%20ABP%20Filter-red?style=for-the-badge)](abp:subscribe?location=https//pwnulatr.github.io/blocklist/domain-formats/ABP-Filter&title=Pwnulatr's%20Misinformation%20and%20Propaganda%20Blocklist)
 ## Option 2
 Append the hosts file to your own hosts file on your operating system, or, add it as another source in [Steven Black's Hosts](https://github.com/StevenBlack/hosts).
 ## Option 3
@@ -28,7 +29,6 @@ In additon to the licensing explicitly waiving warranty implied warranty, I woul
 ## In alphabetical order:
 [ForTheBadge](https://forthebadge.com) - Badges for ReadMe
 
-[Jekyll Theme Console](https://github.com/b2a3e8/jekyll-theme-console) (Licensed [Apache 2.0](https://github.com/b2a3e8/jekyll-theme-console/blob/master/LICENSE.txt)) - Theme used for the GitHub Pages... page.
 
 [Markton's Fakenews](https://github.com/marktron/fakenews) (Licensed [MIT](https://github.com/marktron/fakenews/blob/master/LICENSE)) - Initial Fake News list used as a building block.
 
