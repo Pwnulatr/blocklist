@@ -1,0 +1,52 @@
+{
+    "filterData": {
+        "channelId": [
+            "// Propaganda - Misinformation (PragerU)",
+            "UCZWlSUNDvCCS1hBiXV0zKcA",
+            "",
+            "// Propaganda - Misinformation (The Daily Wire)",
+            "UCaeO5vkdj5xOQHp4UmIN6dw",
+            "",
+            "// Propaganda - Misinformation (Breitbart News)",
+            "UCmgnsaQIK1IR808Ebde-ssA",
+            "",
+            "// Propaganda - Misinformationu (Lauren Chen)",
+            "UCLUrVTVTA3PnUFpYvpfMcpg",
+            "",
+            "// Propaganda - Misinformation (Ben Shapiro)",
+            "UCnQC_G5Xsjhp9fEJKuIcrSw",
+            "",
+            "// Misinformation (TheQuartering)",
+            "UCfwE_ODI1YTbdjkzuSi1Nag",
+            "",
+            "// Propaganda - Misinformation (StevenCrowder)",
+            "UCIveFvW-ARp_B_RckhweNJw",
+            ""
+        ],
+        "channelName": [
+            ""
+        ],
+        "comment": [
+            ""
+        ],
+        "title": [
+            ""
+        ],
+        "vidLength": [
+            null,
+            null
+        ],
+        "videoId": [
+            ""
+        ]
+    },
+    "options": {
+        "autoplay": false,
+        "block_message": "Blocked via BlockTube",
+        "mixes": true,
+        "suggestions_only": false,
+        "trending": true,
+        "vidLength_type": "allow"
+    },
+    "uiPass": ""
+}
