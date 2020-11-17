@@ -1,7 +1,6 @@
 <div align="center">
 
 # Pwnulatr's Misinformation and Propaganda Blocklists
-
 ## Help Yourself Be Free From Misinformation
 
 [![License](https://img.shields.io/github/license/Pwnulatr/blocklist?style=for-the-badge)](https://github.com/Pwnulatr/blocklist/blob/main/LICENSE)
@@ -13,13 +12,13 @@
 ## Option 1
 Add the Filter list to any ABPlus Filter compatable browser addon using the button below.
 
-[![Install ABP](https://img.shields.io/badge/Install-For%20ABP%20Filter-red?style=for-the-badge)](abp:subscribe?location=https//pwnulatr.github.io/blocklist/domain-formats/ABP-Filter&title=Pwnulatr's%20Misinformation%20and%20Propaganda%20Blocklist)
+[![Install ABP](https://img.shields.io/badge/Install-For%20ABP%20Filter-red?style=for-the-badge)](abp:subscribe?location=https//pwnulatr.github.io/blocklist/ABP-Filter&title=Pwnulatr%27s%20Misinformation%20and%20Propaganda%20Blocklist)
 ## Option 2
 Append the hosts file to your own hosts file on your operating system, or, add it as another source in [Steven Black's Hosts](https://github.com/StevenBlack/hosts).
 ## Option 3
-If you use a [Pi-hole](https://pi-hole.net/), you can add the domains file to your blocklist. This will also work when added to uBlock Origin or other compatible browser-based blockers.
+If you use a [Pi-hole](https://pi-hole.net/), you can add the [domains file](domains) to your blocklist. This will also work when added to uBlock Origin or other compatible browser-based blockers.
 ## Option 4
-Use [BlockTube](https://github.com/amitbl/blocktube) to also block YouTube channels from appearing that also spread misinformation. Just import the JSON file in the `BlockTube` directory.
+Use [BlockTube](https://github.com/amitbl/blocktube) to also block YouTube channels from appearing that also spread misinformation. Just import the `blocktube_backup.json` from [here](blocktube_backup.json).
 ### More options to come at a later date
 # DISCLAIMER
 ```
@@ -28,7 +27,6 @@ In additon to the licensing explicitly waiving warranty implied warranty, I woul
 # Credits
 ## In alphabetical order:
 [ForTheBadge](https://forthebadge.com) - Badges for ReadMe
-
 
 [Markton's Fakenews](https://github.com/marktron/fakenews) (Licensed [MIT](https://github.com/marktron/fakenews/blob/master/LICENSE)) - Initial Fake News list used as a building block.
 
