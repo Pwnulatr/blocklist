@@ -1,7 +1,7 @@
 ! Title: Pwnulatr's Misinformation and Propaganda Blocklist
 ! Description: Help Yourself Be Free From Misinformation
 ! Expires: 7 days (update frequency)
-! License: MIT, https://energized.pro/license
+! License: BSD-3-Clause-Clear, https://github.com/Pwnulatr/blocklist/blob/main/LICENSE
 ! RAW: https//pwnulatr.github.io/blocklist/domain-formats/ABP-Filter
 ||100percentfedup.com^
 ||20minutenews.com^
