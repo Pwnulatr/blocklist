@@ -1,13 +1,3 @@
-<div align="center">
-
-# Pwnulatr's Misinformation and Propaganda Blocklists
-## Help Yourself Be Free From Misinformation
-
-[![License](https://img.shields.io/github/license/Pwnulatr/blocklist?style=for-the-badge)](https://github.com/Pwnulatr/blocklist/blob/main/LICENSE)
-[![forthebadge](https://img.shields.io/badge/Built%20with-Resentment-orange?style=for-the-badge)](https://forthebadge.com)
-
-</div>
-
 # Install
 ## Option 1
 Add the Filter list to any ABPlus Filter compatable browser addon using the button below.

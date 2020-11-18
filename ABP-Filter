@@ -4,7 +4,7 @@
 ! Expires: 7 days (update frequency)
 ! Homepage: https://pwnulatr.github.io/blocklist/
 ! License: BSD-3-Clause-Clear, https://github.com/Pwnulatr/blocklist/blob/main/LICENSE
-! RAW: https//pwnulatr.github.io/blocklist/domain-formats/ABP-Filter
+! RAW: https://cdn.jsdelivr.net/gh/Pwnulatr/blocklist@main/ABP-Filter
 !
 ||100percentfedup.com^
 ||20minutenews.com^

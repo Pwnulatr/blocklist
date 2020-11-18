@@ -1,5 +1,5 @@
 remote_theme: "dracula/gh-pages"
 title: PMPB
 description: Help Yourself Be Free From Misinformation
-show_header: false
+show_header: true
 show_downloads: false
