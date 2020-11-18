@@ -12,7 +12,7 @@
 ## Option 1
 Add the Filter list to any ABPlus Filter compatable browser addon using the button below.
 
-[![Install ABP](https://img.shields.io/badge/Install-For%20ABP%20Filter-red?style=for-the-badge)](abp:subscribe?location=https://cdn.jsdelivr.net/gh/Pwnulatr/blocklist@main/ABP-Filter&title=Pwnulatr%27s%20Misinformation%20and%20Propaganda%20Blocklist)
+[![Install ABP](https://img.shields.io/badge/Install-For%20ABP%20Filter-red?style=for-the-badge)](abp:subscribe?location=https%3A%2F%2Fpwnulatr.github.io%2Fblocklist%2FABP-Filter&title=Pwnulatr%27s%20Misinformation%20and%20Propaganda%20Blocklist)
 ## Option 2
 Append the hosts file to your own hosts file on your operating system, or, add it as another source in [Steven Black's Hosts](https://github.com/StevenBlack/hosts).
 ## Option 3
